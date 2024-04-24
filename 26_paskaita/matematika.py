@@ -1,4 +1,11 @@
 def sudetis(a,b):
     return a+ b
 
-print(sudetis(5,3))
+def daugyba(a:int, b:int) -> int:
+    #Dokumentuoti funkcija
+    """
+    Ši funkcija sudaygina sverikus skaičius
+    """
+    return a*b
+
+
