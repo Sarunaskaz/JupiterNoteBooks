@@ -1,0 +1,201 @@
+;Adresas;Kaina;KainaKV;plotas;KambariuSk
+0;Klaipėda, Centras, Danės g.;103 000 €;2 512;41;2
+1;Vilnius, Baltupiai, Kazio Ulvydo g.;315 000 €;4 011;78.53;3
+2;Palanga, Šventoji, Mėguvos g.;38 940 €;1 770;22;1
+3;Vilnius, Naujamiestis, Skroblų g.;182 117 €;4 137;44.02;2
+4;Vilnius, Bajorai, Salaspilio g.;164 692 €;2 440;67.5;3
+5;Palanga, Palanga, Saulėlydžio g.;135 000 €;2 213;61;2
+6;Vilnius, Santariškės, M. Bukšos g.;319 968 €;3 325;96.22;4
+7;Vilnius, Žirmūnai, Raitininkų g.;280 000 €;5 477;51.12;2
+8;Vilnius, Pašilaičiai, Pavilnionių g.;160 000 €;2 218;72.14;3
+9;Vilnius, Šnipiškės, Olimpiečių g.;995 000 €;10 16;97.93;3
+10;Vilnius, Senamiestis, Gedimino pr.;830 000 €;5 804;143;3
+11;Kaunas, Dainava, Taikos pr.;144 999 €;2 617;55.4;3
+12;Kaunas, Žemieji Šančiai, A. Juozapavičiaus pr.;125 000 €;3 000;41.67;2
+13;Vilnius, Markučiai, Kaukysos g.;219 000 €;4 844;45.21;2
+14;Vilnius, Žirmūnai, Žirmūnų g.;100 900 €;3 135;32.19;1
+15;Vilnius, Karoliniškės, Algimanto Petro Kavoliuko g.;133 500 €;3 018;44.24;2
+16;Vilnius, Pilaitė, I. Simonaitytės g.;145 000 €;3 152;46;2
+17;Vilnius, Karoliniškės, Algimanto Petro Kavoliuko g.;140 000 €;3 415;41;2
+18;Klaipėda, Alksnynė, Taikos pr.;170 000 €;2 024;84;3
+19;Vilnius, Justiniškės, Taikos g.;134 900 €;2 645;51;3
+20;Kaunas, Žaliakalnis, Kalniečių g.;69 900 €;2 377;29.41;1
+21;Vilnius, Pilaitė, Tvankstos g.;192 000 €;3 368;57;3
+22;Vilnius, Šnipiškės, Lvivo g.;164 000 €;4 316;38;2
+23;Vilnius, Justiniškės, Helsinkio g.;95 000 €;2 879;33;2
+24;Vilnius, Naujamiestis, Gerosios Vilties g.;239 000 €;3 918;61;3
+25;Kaunas, Dainava, Partizanų g.;49 000 €;1 633;30;1
+26;Vilnius, Naujamiestis, Eigulių g.;169 000 €;4 126;40.96;2
+27;Vilnius, Vilkpėdė, Eigulių g.;229 000 €;4 906;46.68;2
+28;Vilnius, Naujininkai, Kaminkelio g.;108 000 €;3 092;34.93;1
+29;Vilnius, Pilaitė, Pilkalnio g.;91 222 €;2 887;31.6;1
+30;Vilnius, Naujamiestis, Smolensko g.;86 154 €;2 731;31.55;2
+31;Vilnius, Naujamiestis, Vytenio g.;109 600 €;4 327;25.33;1
+32;Palanga, Mėguvos g.;111 000 €;2 467;45;2
+33;Vilnius, Lazdynėliai, Žaibo g.;166 000 €;3 773;44;2
+34;Klaipėda, Centras, Žiedų skg.;307 000 €;2 488;123.37;4
+35;Vilnius, Visoriai, Visorių g.;130 251 €;2 963;43.96;2
+36;Vilnius, Naujamiestis, Algirdo g.;126 321 €;3 900;32.39;1
+37;Vilnius, Naujamiestis, Marijampolės g.;168 823 €;3 850;43.85;2
+38;Vilnius, Karoliniškės, Sietyno g.;116 875 €;2 750;42.5;2
+39;Vilnius, Šnipiškės, Šatrijos g.;139 400 €;4 000;34.85;2
+40;Vilnius, Naujamiestis, Mindaugo g.;214 900 €;4 082;52.64;3
+41;Druskininkų m., Liepų g.;140 610 €;2 420;58.1;3
+42;Vilnius, Lazdynėliai, Žaibo g.;163 000 €;3 881;42;2
+43;Klaipėda, Žvejybos uostas, Nidos g.;67 000 €;1 182;56.68;2
+44;Klaipėda, Žardininkai, Žardininkų g.;76 000 €;1 188;64;3
+45;Kaunas, Freda, Europos pr.;83 990 €;2 745;30.6;2
+46;Vilnius, Lazdynai, Architektų g.;119 000 €;2 532;47;2
+47;Vilnius, Lazdynai, Architektų g.;174 900 €;2 610;67.01;4
+48;Vilnius, Šeškinė, Gelvonų g.;85 500 €;3 139;27.24;1
+49;Vilnius, Šeškinė, Čiobiškio g.;129 000 €;2 950;43.73;2
+50;Vilnius, Pašilaičiai, Perkūnkiemio g.;123 900 €;1 906;65;2
+51;Kaunas, Šilainiai, Naujakurių g.;104 420 €;2 299;45.41;2
+52;Palanga, Sergiškių g.;132 000 €;2 750;48;2
+53;Vilnius, Pašilaičiai, Pavilnionių g.;133 500 €;2 880;46.36;2
+54;Klaipėda, Labrenciškės, Kretingos g.;99 850 €;2 504;39.87;2
+55;Klaipėda, Labrenciškės, Kretingos g.;168 624 €;2 150;78.43;3
+56;Klaipėda, Labrenciškės, Kretingos g.;106 075 €;2 297;46.17;2
+57;Vilnius, Lazdynėliai, Žaibo g.;166 000 €;3 773;44;2
+58;Palanga, Palanga, Virbališkės tak.;187 550 €;3 907;48;2
+59;Palanga, Sergiškių g.;79 000 €;3 160;25;1
+60;Vilnius, Naujamiestis, Naugarduko g.;135 000 €;2 813;48;2
+61;Vilnius, Karoliniškės, Algimanto Petro Kavoliuko g.;199 000 €;3 044;65.38;3
+62;Vilnius, Paupys, Krivūlės g.;184 000 €;5 111;36;2
+63;Vilnius, Naujininkai, Naujininkų g.;115 000 €;2 091;55;2
+64;Vilnius, Antakalnis, V. Grybo g.;215 000 €;4 541;47.35;2
+65;Kaunas, Panemunė, Vaidoto g.;38 000 €;1 719;22.11;2
+66;Kaunas, Panemunė, Vaidoto g.;37 000 €;1 576;23.47;1
+67;Vilnius, Viršuliškės, Viršilų g.;202 000 €;3 961;51;3
+68;Vilnius, Žvėrynas, Stumbrų g.;207 940 €;3 999;52;2
+69;Vilnius, Karoliniškės, Loretos Asanavičiūtės g.;106 300 €;3 082;34.49;2
+70;Vilnius, Justiniškės, Taikos g.;130 300 €;3 007;43.33;2
+71;Trakų r. sav., Lentvario m., Naujosios Sodybos g.;124 700 €;1 911;65.24;3
+72;Vilnius, Žvėrynas, Stumbrų g.;210 900 €;4 102;51.42;3
+73;Vilnius, Senamiestis, Vašingtono a.;370 000 €;3 700;100;4
+74;Palanga, Palanga, Paliepgirių kel.;239 000 €;4 109;58.17;3
+75;Vilnius, Užupis, Filaretų g.;192 502 €;5 800;33.19;2
+76;Alytus, Dainava, Vilties g.;59 000 €;855  ;69.03;4
+77;Telšių m., Ežero g.;69 000 €;1 895;36.41;2
+78;Vilnius, Naujamiestis, Aguonų g.;149 000 €;3 641;40.92;2
+79;Kaunas, Žemutiniai Kaniūkai, Raudondvario pl.;192 500 €;2 070;93;4
+80;Kaunas, Žemieji Šančiai, Kranto al.;137 500 €;2 191;62.75;3
+81;Kaunas, Vilijampolė, Brastos g.;389 000 €;3 687;105.51;4
+82;Vilnius, Pašilaičiai, Laisvės pr.;288 000 €;2 382;120.93;4
+83;Kaunas, Senamiestis, Pilies g.;499 999 €;6 250;80;3
+84;Vilnius, Šnipiškės, Šatrijos g.;229 000 €;5 205;44;2
+85;Vilnius, Lazdynai, M. Mironaitės g.;159 900 €;3 476;46;2
+86;Palanga, Palanga, Vanagupės g.;355 000 €;6 928;51.24;2
+87;Vilnius, Senamiestis, Palangos g.;500 000 €;3 378;148;4
+88;Palanga, Vanagupės g.;299 000 €;3 462;86.36;4
+89;Vilnius, Senamiestis, J. Basanavičiaus g.;490 000 €;3 141;156;4
+90;Jonavos m., Geležinkelio g.;70 000 €;963  ;72.67;3
+91;Kaunas, Žaliakalnis, Šimkaičių g.;195 000 €;2 786;70;3
+92;Klaipėda, Centras, Kuosų g.;139 000 €;2 206;63;2
+93;Vilnius, Žirmūnai, Kareivių g.;214 423 €;3 057;70.14;4
+94;Vilnius, Žvėrynas, A. Mickevičiaus g.;520 000 €;6 582;79;4
+95;Vilnius, Šnipiškės, Konstitucijos pr.;335 000 €;3 350;100;4
+96;Vilnius, Šnipiškės, Kalvarijų g.;179 000 €;3 972;45.07;2
+97;Klaipėda, Paupiai, Ragainės g.;135 500 €;3 196;42.4;2
+98;Vilnius, Žirmūnai, M. Katkaus g.;179 000 €;3 580;50;2
+99;Palanga, Palanga, Vytauto g.;219 000 €;5 230;41.87;2
+100;Vilnius, Lazdynėliai, Lazdynėlių g.;159 900 €;2 758;57.97;3
+101;Vilnius, Šiaurės miestelis, J. Galvydžio g.;139 000 €;2 985;46.57;2
+102;Klaipėda, Labrenciškės, Kretingos g.;177 775 €;2 090;85.06;4
+103;Klaipėda, Paupiai, Klemiškės g.;185 000 €;3 083;60;3
+104;Klaipėda, Senamiestis, J. Janonio g.;95 000 €;2 159;44;2
+105;Vilnius, Karoliniškės, Vytauto Vaitkaus g.;116 000 €;3 345;34.68;2
+106;Vilnius, Naujoji Vilnia, Dūmų g.;56 000 €;1 856;30.18;2
+107;Vilnius, Užupis, Krivių g.;195 000 €;4 333;45;2
+108;Vilnius, Markučiai, Manufaktūrų g.;232 000 €;4 901;47.34;2
+109;Visagino m., Sedulinos al.;46 000 €;659  ;69.8;4
+110;Vilnius, Fabijoniškės, Salomėjos Nėries g.;150 000 €;2 399;62.53;2
+111;Vilnius, Pilaitė, Tolminkiemio g.;166 900 €;3 252;51.32;2
+112;Vilnius, Senamiestis, Pylimo g.;690 000 €;4 825;143;4
+113;Kaunas, Žemieji Šančiai, A. Juozapavičiaus pr.;149 999 €;2 885;52;2
+114;Jonavos m., Kosmonautų g.;32 000 €;1 204;26.57;1
+115;Vilnius, Valakampiai, Svajonių g.;375 000 €;3 989;94;4
+116;Kauno r. sav., Jonučių II k., Versmės g.;73 128 €;1 825;40.07;2
+117;Šiauliai, Centras, Draugystės pr.;89 000 €;1 735;51.29;3
+118;Vilnius, Šiaurės miestelis, Žygio g.;183 000 €;3 027;60.46;2
+119;Vilnius, Markučiai, Manufaktūrų g.;420 000 €;5 185;81;4
+120;Palanga, Druskininkų g.;59 000 €;2 107;28;1
+121;Vilnius, Lazdynėliai, Neužmirštuolių g.;265 000 €;2 665;99.44;3
+122;Kaunas, Dainava, Partizanų g.;70 000 €;2 121;33;1
+123;Vilnius, Markučiai, Manufaktūrų g.;252 000 €;5 663;44.5;2
+124;Vilnius, Naujamiestis, Savanorių pr.;399 000 €;3 613;110.43;4
+125;Palanga, Vėžių g.;277 200 €;3 587;77.28;4
+126;Vilnius, Naujamiestis, Vinco Kudirkos g.;490 000 €;3 603;136;4
+127;Vilnius, Senamiestis, Teatro g.;400 000 €;5 195;77;3
+128;Vilnius, Šnipiškės, Kalvarijų g.;250 000 €;3 086;81;3
+129;Klaipėda, Varpai, Varpų g.;89 900 €;2 246;40.02;2
+130;Kaunas, Žemieji Šančiai, A. Juozapavičiaus pr.;180 000 €;4 055;44.39;2
+131;Panevėžys, Klaipėdos, Kosmonautų g.;70 000 €;1 343;52.11;2
+132;Trakų m., Linksmoji g.;81 500 €;1 990;40.95;2
+133;Vilnius, Lazdynėliai, Lazdynėlių g.;192 900 €;3 445;56;3
+134;Vilnius, Naujamiestis, T. Ševčenkos g.;95 000 €;4 556;20.85;2
+135;Klaipėda, Centras, Kauno g.;85 000 €;2 237;38;2
+136;Molėtų m., Mechanizatorių g.;119 000 €;1 486;80.06;4
+137;Druskininkų m., Neravų g.;85 000 €;1 838;46.25;2
+138;Vilnius, Šnipiškės, Sporto g.;167 000 €;4 039;41.35;2
+139;Vilnius, Žemieji Paneriai, Jankiškių g.;70 000 €;2 059;34;2
+140;Palanga, Vaivorykštės g.;72 500 €;2 553;28.4;2
+141;Vilnius, Antakalnis, Rokantiškių g.;95 700 €;2 393;40;2
+142;Vilnius, Naujininkai, Meistrų g.;48 500 €;1 940;25;1
+143;Vilnius, Pašilaičiai, Perkūnkiemio g.;104 900 €;2 498;42;2
+144;Druskininkų m., Vilniaus al.;249 615 €;4 300;58.05;2
+145;Šiauliai, Gytariai, Kviečių g.;74 600 €;1 157;64.47;3
+146;Šiauliai, Dainiai, Lyros g.;73 800 €;1 142;64.61;3
+147;Vilnius, Naujamiestis, Savanorių pr.;285 000 €;6 196;46;2
+148;Akmenės r. sav., Naujosios Akmenės m., Nepriklausomybės al.;26 000 €;565  ;46;2
+149;Palanga, Vanagupės g.;155 000 €;3 946;39.28;1
+150;Palanga, Šventoji, Mėguvos g.;109 999 €;2 275;48.35;2
+151;Kaunas, Aleksotas, Bitininkų g.;289 999 €;3 671;79;3
+152;Vilnius, Pašilaičiai, Eitminų g.;165 000 €;2 686;61.44;3
+153;Kaunas, Senamiestis, Šv. Gertrūdos g.;255 000 €;2 260;112.81;3
+154;Druskininkų m., Veisiejų g.;81 000 €;1 136;71.3;3
+155;Kaunas, Šilainiai, J. Grušo g.;91 000 €;2 459;37;1
+156;Širvintų m., Zibalų g.;25 000 €;1 058;23.63;1
+157;Klaipėda, Centras, J. Zauerveino g.;265 000 €;3 136;84.5;3
+158;Vilnius, Naujamiestis, Mindaugo g.;430 000 €;5 890;73;3
+159;Vilnius, Naujamiestis, Vinco Kudirkos g.;287 000 €;3 706;77.45;3
+160;Rietavo m., Daržų g.;89 900 €;1 404;64.01;3
+161;Neringos m., Vilų g.;110 000 €;7 161;15.36;1
+162;Utenos m., Aukštakalnis, Aukštakalnio g.;155 000 €;2 686;57.7;2
+163;Kaunas, Rokai, Girmuonio g.;91 000 €;1 287;70.69;4
+164;Klaipėda, Žvejybos uostas, Minijos g.;95 000 €;2 111;45;2
+165;Kaunas, Dainava, Partizanų g.;69 500 €;1 565;44.4;2
+166;Vilnius, Šeškinė, Fabijoniškių g.;199 000 €;3 980;50;2
+167;Vilnius, Žemieji Paneriai, Vaduvos g.;78 000 €;1 926;40.5;1
+168;Kėdainių m., Sodų g.;23 000 €;688  ;33.45;2
+169;Kaunas, Žaliakalnis, P. Višinskio g.;72 000 €;2 118;34;2
+170;Kėdainių m., Pavasario g.;52 000 €;1 042;49.9;2
+171;Visagino m., Taikos pr.;19 900 €;552  ;36.08;1
+172;Šiauliai, Rėkyva, Energetikų g.;62 000 €;1 161;53.42;2
+173;Klaipėda, Žvejybos uostas, Minijos g.;16 500 €;807  ;20.44;1
+174;Elektrėnų m., Šviesos g.;89 500 €;1 462;61.2;3
+175;Širvintų m., Kalnalaukio g.;53 000 €;1 023;51.82;2
+176;Vilnius, Pilaitė, I. Simonaitytės g.;196 000 €;2 781;70.48;2
+177;Kaišiadorių r. sav., Pravieniškių k., Pravieniškių g.;24 700 €;682  ;36.2;1
+178;Šilutės r. sav., Armalėnų k., Plytinės g.;28 000 €;490  ;57.16;3
+179;Kelmės m., J. Janonio g.;50 000 €;1 000;50;2
+180;Švenčionių r. sav., Pabradės m., Arnionių g.;55 000 €;1 082;50.81;3
+181;Palanga, Palanga, Užkanavės g.;275 000 €;5 896;46.64;3
+182;Vilnius, Justiniškės, Rygos g.;109 000 €;2 124;51.33;2
+183;Kretingos m., Topolių aklg.;76 800 €;1 274;60.27;3
+184;Elektrėnų m., Sodų g.;55 800 €;1 250;44.63;2
+185;Elektrėnų m., Sodų g.;65 800 €;1 161;56.69;3
+186;Kaunas, Žaliakalnis, Gražinos g.;123 000 €;1 593;77.21;4
+187;Šiauliai, Zokniai, Radviliškio g.;72 000 €;1 241;58;3
+188;Vilnius, Naujamiestis, Vasario 16-osios g.;440 000 €;4 000;110;4
+189;Vilkaviškio r. sav., Paežerių k., Dvaro g.;29 000 €;517  ;56.07;3
+190;Alytus, Vidzgiris, Jazminų g.;58 000 €;870  ;66.69;3
+191;Vilnius, Šeškinė, Ukmergės g.;114 900 €;2 128;54;2
+192;Neringos m., Preilos g.;300 000 €;6 512;46.07;2
+193;Vilnius, Naujoji Vilnia, Pergalės g.;38 000 €;2 375;16;1
+194;Vilnius, Visoriai, Visorių g.;289 000 €;2 939;98.32;3
+195;Palanga, Palanga, Vaivorykštės g.;239 000 €;4 476;53.4;3
+196;Palanga, Palanga, Hipodromo g.;195 000 €;4 875;40;2
+197;Palanga, Palanga, Gintaro g.;165 500 €;4 769;34.7;2
+198;Vilnius, Šnipiškės, Kalvarijų g.;216 000 €;2 962;72.93;3
+199;Kaunas, Žaliakalnis, Varpo g.;255 000 €;3 468;73.54;3
